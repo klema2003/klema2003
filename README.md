@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @klema2003
+- 👋 Hi, I’m Petr
 - 👀 I’m interested in robotics and games
 - 🌱 I’m currently learning arduino,java
 - 💞️ I’m looking to collaborate on ...
